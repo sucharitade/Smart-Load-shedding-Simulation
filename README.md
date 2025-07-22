@@ -13,3 +13,8 @@ This project simulates intelligent zone-wise load shedding using MATLAB App Desi
 - Matlab
 - App designer
 
+#### 1. Full App Interface (Initial State)
+
+#### 2. During Simulation (Active State)
+
+#### 3. Zone-Specific Simulation
